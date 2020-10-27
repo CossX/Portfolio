@@ -18,6 +18,14 @@
 
 ![статистика](https://github.com/CossX/myfiles/blob/main/2020-10-28_003725.jpg)
 
+
+##Нейронные сети
+
+Модель машинного обучения, которая предсказывает предел прочности сплава в зависимости от его химического состава, температуры закалки и температуры испытания
+
+
+Датасет взят с сайта University of Cambridge - https://www.phase-trans.msm.cam.ac.uk/map/data/materials/austenitic.data.html
+
 ## Статьи в научных журналах
 
 ВАК и Scopus<br>
@@ -27,4 +35,3 @@
 
 
 [MODELING STAMPING TO DETERMINE THE IMPACT ENERGY OF THE HAMMER AND THE LOCATIONS WHERE DEFECTS FORM](https://github.com/CossX/myfiles/blob/main/zamotaev2016.pdf)
-
