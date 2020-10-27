@@ -20,4 +20,9 @@ http://aproburo.ru/<br>
 
 ## Статьи в научных журналах
 
-ВАК и Scopus (
+ВАК и Scopus
+
+<a href="https://github.com/CossX/myfiles/blob/main/modelirovanie-shtampovki-i-termicheskoy-obrabotki-v-programme-deform.pdf">МОДЕЛИРОВАНИЕ ШТАМПОВКИ И ТЕРМИЧЕСКОЙ ОБРАБОТКИ В ПРОГРАММЕ DEFORM </a>
+
+<a href="https://github.com/CossX/myfiles/blob/main/zamotaev2016.pdf">MODELING STAMPING TO DETERMINE THE IMPACT ENERGY OF THE HAMMER AND THE LOCATIONS WHERE DEFECTS FORM</a>
+
