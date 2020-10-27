@@ -11,3 +11,6 @@ https://potolkius.ru/ <br>
 https://burolux.ru/ <br>
 http://norden-rolls.ru/ <br>
 http://aproburo.ru/<br>
+
+![alt text](http://url/to/https://lh3.google.com/u/0/d/1n6kA9moLlFq3dw83qyu9YRuwZhrMrFeO=w1920-h964-iv1)
+
