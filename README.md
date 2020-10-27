@@ -4,6 +4,7 @@
 Некотырые сайты, разработанные мной 
 
 **Доставка суши** - <a href="https://mega-vkusno.ru/" target="_blank">Мега Вкусно</a><br>
+[Мега Вкусно](https://mega-vkusno.ru/)
 **Стяжка пола** - https://polsamara.ru/ <br>
 **Доставка суши и др. азиатских блюд** - https://prorolls.ru/ <br>
 **Интернет магазин (каталог) бытовых световых приборов** - https://svetusrf.ru/ <br>
