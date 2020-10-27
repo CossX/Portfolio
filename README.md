@@ -16,4 +16,8 @@ http://aproburo.ru/<br>
 
 Рост трафика на сайте и его удержание в течении 3-х лет
 
-![статистика](https://github.com/CossX/files2/blob/master/2020-10-28_003725.jpg)
+![статистика](https://github.com/CossX/myfiles/blob/main/2020-10-28_003725.jpg)
+
+## Статьи в научных журналах
+
+ВАК и Scopus (
