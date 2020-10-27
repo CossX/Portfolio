@@ -12,5 +12,8 @@ https://burolux.ru/ <br>
 http://norden-rolls.ru/ <br>
 http://aproburo.ru/<br>
 
-![статистика](https://github.com/CossX/files2/blob/master/2020-10-28_003725.jpg)
+##Развитие контентных проектов
 
+Рост трафика на сайте и его удержание в течении 3-х лет
+
+![статистика](https://github.com/CossX/files2/blob/master/2020-10-28_003725.jpg)
