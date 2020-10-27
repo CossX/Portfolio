@@ -24,8 +24,7 @@
 Модель машинного обучения, которая предсказывает предел прочности сплава в зависимости от его химического состава, температуры закалки и температуры испытания
 
 
-Датасет взят с сайта University of Cambridge - https://www.phase-trans.msm.cam.ac.uk/map/data/materials/austenitic.data.html
-
+Датасет взят с сайта University of Cambridge
 ## Статьи в научных журналах
 
 ВАК и Scopus<br>
