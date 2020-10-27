@@ -3,14 +3,14 @@
 ## Разработка сайтов
 Некотырые сайты, разработанные мной 
 
-https://mega-vkusno.ru/ <br>
-https://polsamara.ru/ <br>
-https://prorolls.ru/ <br>
-https://svetusrf.ru/ <br>
-https://potolkius.ru/ <br>
-https://burolux.ru/ <br>
-http://norden-rolls.ru/ <br>
-http://aproburo.ru/<br>
+**Доставка суши** - https://mega-vkusno.ru/ <br>
+**Стяжка пола** - https://polsamara.ru/ <br>
+**Доставка суши и др. азиатских блюд** - https://prorolls.ru/ <br>
+**Интернет магазин (каталог) бытовых световых приборов** - https://svetusrf.ru/ <br>
+**Натяжные потолки** - https://potolkius.ru/ <br>
+**Дизайн и ремонт квартир** - https://burolux.ru/ <br>
+**Жалюзи и рулонные шторы** - http://norden-rolls.ru/ <br>
+**Архитектурное бюро** - http://aproburo.ru/<br>
 
 ## Развитие контентных проектов
 
