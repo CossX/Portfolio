@@ -64,7 +64,7 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 Пример Пример фотографий двойников Трампа
 
-![Не Трамп](https://github.com/CossX/myfiles)
+![Двойники Трампа](https://github.com/CossX/myfiles/blob/main/fake_tramp.jpgs)
 
 
 
