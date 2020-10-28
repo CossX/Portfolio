@@ -77,6 +77,10 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 
 
+https://github.com/CossX/Donald_Face/blob/main/Face_Donald.ipynb
+
+
+
 ***
 ## Статьи в научных журналах
 
