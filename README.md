@@ -54,6 +54,7 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 Фотография, на которой обучалась сеть
 
+![Не Трамп](https://github.com/CossX/myfiles/blob/main/main_tramp.jpg)
 
 
 Пример фотографий "не Трампа"
