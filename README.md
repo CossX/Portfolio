@@ -54,9 +54,9 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 Сеть узнает Трампа с различным выражением лица, поворотом головы, в молодости. 
 
 
-Пример Пример фотографий Трампа
+Пример фотографий Трампа
 
-![Не Трамп](https://github.com/CossX/myfiles/blob/main/NoT.jpg)
+![Трамп](https://github.com/CossX/myfiles/blob/main/tramp.jpg)
 
 
 Отлично "отсееват" двойников Трампа
