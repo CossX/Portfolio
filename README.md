@@ -59,12 +59,12 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 ![Трамп](https://github.com/CossX/myfiles/blob/main/tramp.jpg)
 
 
-Отлично "отсееват" двойников Трампа
+Отлично "отсеивает" двойников Трампа
 
 
 Пример Пример фотографий двойников Трампа
 
-![Двойники Трампа](https://github.com/CossX/myfiles/blob/main/fake_tramp.jpgs)
+![Двойники Трампа](https://github.com/CossX/myfiles/blob/main/fake_tramp.jpg)
 
 
 
