@@ -48,6 +48,7 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 
 Пример фотографий "не Трампа"
+
 ![Не Трамп](https://github.com/CossX/myfiles/blob/main/NoT.jpg)
 
 Сеть узнает Трампа с различным выражением лица, поворотом головы, в молодости. 
@@ -55,11 +56,15 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 Пример Пример фотографий Трампа
 
+![Не Трамп](https://github.com/CossX/myfiles/blob/main/NoT.jpg)
+
 
 Отлично "отсееват" двойников Трампа
 
 
 Пример Пример фотографий двойников Трампа
+
+![Не Трамп](https://github.com/CossX/myfiles/blob/main/NoT.jpg)
 
 
 
