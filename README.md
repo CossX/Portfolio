@@ -46,7 +46,7 @@
 Датасет взят с сайта University of Cambridge
 
 
-Ссылка на проект
+**Ссылка на проект**
 
 
 https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
@@ -85,7 +85,7 @@ https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 ![Двойники Трампа](https://github.com/CossX/myfiles/blob/main/fake_tramp.jpg)
 
 
-Ссылка на проект
+**Ссылка на проект**
 
 
 https://github.com/CossX/Donald_Face/blob/main/Face_Donald.ipynb
