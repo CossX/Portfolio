@@ -102,3 +102,10 @@ https://github.com/CossX/Donald_Face/blob/main/Face_Donald.ipynb
 
 
 [MODELING STAMPING TO DETERMINE THE IMPACT ENERGY OF THE HAMMER AND THE LOCATIONS WHERE DEFECTS FORM](https://github.com/CossX/myfiles/blob/main/zamotaev2016.pdf)
+
+
+***
+## Методические указания
+
+
+[Сквозное моделирование технологического процесса получения детали лопатка гтд с исследованием изменения среднего размера зерна в программном комплексе DEFORM 3D](https://github.com/CossX/myfiles/blob/main/SKVOZNOE_MODELIRORVANIE.pdf)
