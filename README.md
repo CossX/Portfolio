@@ -1,6 +1,18 @@
 # Замотаев Константин
 
 ## Примеры разработанных атотестов (java, selenide)
+
+### Дипломный проект профессии «Тестировщик»
+Дипломный проект представляет собой автоматизацию тестирования комплексного сервиса, взаимодействующего с СУБД и API Банка.
+
+Что сделанно:
+* Составлен [перечень автоматизируемых сценариев](https://github.com/Cossmoz/Diploma/blob/master/Documents/Plan.md)
+* Разработаны [автотесты](https://github.com/Cossmoz/Diploma/tree/master/src/test/java/ru/netology)
+* Найдены и оформлены [баги](https://github.com/Cossmoz/Diploma/issues)
+* Произведена интеграция c [Appveyor (СI)](https://ci.appveyor.com/project/Cossmoz61571/diploma)
+* Подготовлен [отчет по тестированию](https://github.com/Cossmoz/Diploma/blob/master/Documents/Report.md)
+
+
 https://github.com/Cossmoz/Diploma
 
 ## Разработка сайтов
@@ -37,7 +49,6 @@ https://github.com/Cossmoz/Diploma
 * вид и температура закалки
 * размер слитка
 * форма образца
-* температура испытания
 
 
 Всего 2180 образцов, 27 признаков у каждого. 
