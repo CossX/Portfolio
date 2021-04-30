@@ -25,8 +25,6 @@ https://github.com/Cossmoz/Diploma
 **Натяжные потолки** - [УютСтрой](https://potolkius.ru/)<br>
 **Дизайн и ремонт квартир** - [Люкс Бюро](https://burolux.ru/)<br>
 **Жалюзи и рулонные шторы** - [Norden Rolls](http://norden-rolls.ru/)<br>
-**Архитектурное бюро** - [A.PRO](http://aproburo.ru/)<br>
-
 
 ***
 ## Развитие контентных проектов
