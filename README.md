@@ -8,7 +8,7 @@
 Что сделанно:
 * Составлен [перечень автоматизируемых сценариев](https://github.com/Cossmoz/Diploma/blob/master/Documents/Plan.md)
 * Разработаны [автотесты](https://github.com/Cossmoz/Diploma/tree/master/src/test/java/ru/netology)
-* Найдены и оформлены [баги](https://github.com/Cossmoz/Diploma/issues)
+* Найдены баги и оформлены [баг-репорты](https://github.com/Cossmoz/Diploma/issues)
 * Произведена интеграция c [Appveyor (СI)](https://ci.appveyor.com/project/Cossmoz61571/diploma)
 * Подготовлен [отчет по тестированию](https://github.com/Cossmoz/Diploma/blob/master/Documents/Report.md)
 
