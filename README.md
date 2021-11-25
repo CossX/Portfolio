@@ -64,46 +64,6 @@ https://github.com/Cossmoz/Diploma
 https://github.com/CossX/Ultimate_tensile_strength/blob/main/main.ipynb
 
 
----
-### Верификация человека по лицу на фото
-
-Нейронная сеть, которая узнает на фото Дональда Трампа. Построена с использованием библиотеки dlib. 
-
-Если сети показать фото Трампа, то она возвращает "Hello, Mr. Donald!". Если сети показать другого человека (или она не узнает Трампа) - возвращает "Не знаю, кто это!".
-
-
-**Фотография, на которой обучалась сеть**
-
-![Не Трамп](https://github.com/CossX/myfiles/blob/main/main_tramp.jpg)
-
-
-**Пример фотографий "не Трампа"**
-
-![Не Трамп](https://github.com/CossX/myfiles/blob/main/NoT.jpg)
-
-Сеть узнает Трампа с различным выражением лица, поворотом головы, в молодости. 
-
-
-**Пример фотографий Трампа**
-
-![Трамп](https://github.com/CossX/myfiles/blob/main/tramp.jpg)
-
-
-Отлично "отсеивает" двойников Трампа
-
-
-Пример фотографий двойников Трампа
-
-![Двойники Трампа](https://github.com/CossX/myfiles/blob/main/fake_tramp.jpg)
-
-
-**Ссылка на проект**
-
-
-https://github.com/CossX/Donald_Face/blob/main/Face_Donald.ipynb
-
-
-
 ***
 ## Статьи в научных журналах
 
