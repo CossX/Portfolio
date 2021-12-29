@@ -18,6 +18,10 @@ https://github.com/Cossmoz/Diploma
 ## Пример автотестов Python, Selenium, Pytest
 [Автотесты для Яндекс Поиск и Яндекс Картинки](https://github.com/CossX/tensorTzZamotaev)
 
+## Пример автотестов API
+
+https://github.com/CossX/rest
+
 ## Разработка сайтов
 Некоторые сайты, разработанные мной:
 
